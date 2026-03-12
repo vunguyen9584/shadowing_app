@@ -1,0 +1,5 @@
+{
+  "name": "ShadowEcho: English Shadowing Coach",
+  "description": "An interactive English pronunciation and rhythm coach using the Shadowing Technique. Practice with AI-generated scripts tailored to your level.",
+  "requestFramePermissions": ["microphone"]
+}
